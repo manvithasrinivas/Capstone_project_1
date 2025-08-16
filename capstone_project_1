@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+       <meta charset="UTF-8">
+        <title>My resume</title>
+    </head>
+    <body>
+        <h1>Manvitha's Portfolio</h1>
+        <hr/>
+        <img src="./Manvitha_image.jpg"height=200 />
+
+        <h2>Summary</h2>
+        <p>I am an Under Graduate student studying B.Tech in Electronics and communiction technologies.
+            I am a tech learner and also have creative skills like product photography and also actively participated in many
+            college events, which represents my communication and engaging skills.
+
+        </p>
+        <h2>Education</h2>
+        <ul>
+            <li>Primary education - 10 GPA</li>
+            <li>Intermediate - MPC - 96%</li>
+            <li>B.Tech - 5th semester - 9.4 CGPA</li>
+            
+        </ul>
+        <h2>Skills</h2>
+        <ul>
+            <li>Currently learning Full stack web development</li>
+            <li>Worked as an intern under Skilldzire for Embedded Systems and automation</li>
+            <li>Communication skills</li>
+            <li>Organisational skills</li>
+            <li>C programming</li>
+            <li>Java - coding languge</li>
+        <hr>
+        <h4>
+        <a href="./public/contact.html">Contact Me
+        </a>
+         </h4>
+    </body>
+
